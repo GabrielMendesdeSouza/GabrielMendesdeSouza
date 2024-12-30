@@ -16,7 +16,6 @@
 ## 
 <div> 
   <a href="https://youtube.com/@gabrielm2961?si=k2SWQgNymnMrj_xu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielmendesdesouza123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-mendes-de-souza-b80776209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZRyEILdbSwaUir9frfmAMw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
