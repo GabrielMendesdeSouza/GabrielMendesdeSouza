@@ -22,7 +22,7 @@
 </div>
 
 
-- 🔭 Hoje estou estagiando no SAAE de Guaçuí-ES
-- 🌱 Estou aprendendo Java e JavaScript
+- 🔭 Hoje estou estagiando na Prefeitura Municipal de Guaçuí-ES
+- 🌱 Estou aprendendo Java e .Net
 - 📫 Contate - me no email: gabrielmendesdesouza123@gmail.com
-- 🤖 Pronouns: Ele/Dele 
+- 🤖 Pronouns: Melhor BackEnd do Planeta 
